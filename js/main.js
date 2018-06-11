@@ -9,7 +9,7 @@ jQuery(document).ready(function () {
 
     $window.on( 'load', function () {
         /*======== Preloader =========*/
-        $(".loading").delay(350).fadeOut("slow");
+        $(".loading").fadeOut("slow");
         /* END of Preloader */
 
         /*========= Masonry Grid Script ==========*/
